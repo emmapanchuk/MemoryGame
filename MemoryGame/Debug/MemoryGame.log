@@ -1,0 +1,7 @@
+﻿  MemoryGame.cpp
+D:\Users\Emma\source\repos\MemoryGame\MemoryGame\MemoryGame.cpp(105): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  MemoryGame.vcxproj -> D:\Users\Emma\source\repos\MemoryGame\Debug\MemoryGame.exe
